@@ -1,0 +1,3 @@
+module YADRO_INTERNSHEEP
+
+go 1.22
